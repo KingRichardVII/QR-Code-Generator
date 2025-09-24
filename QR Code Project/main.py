@@ -8,3 +8,5 @@ import qrcode
 img = qrcode.make("https://www.youtube.com/watch?v=X7RotIysnpo")
 img.save("mycode.png")
 img.show() #opens in default image viewer
+
+#Add feature that changes color of qrcode. Maybe black and red?
