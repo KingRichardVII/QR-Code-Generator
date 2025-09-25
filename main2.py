@@ -1,3 +1,6 @@
+#Richard Phan
+#9/25/25
+
 import qrcode
 
 qr = qrcode.QRCode(version=1,
@@ -14,4 +17,5 @@ img.show()
 
 #Next steps:
 #Ask user for input of variables, including box size, fill color, and background color, as well as link.
+
 
