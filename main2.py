@@ -12,3 +12,6 @@ img = qr.make_image(fill_color ="red", back_color ="black") #swap colors with th
 img.save("coloredCode.png")
 img.show()
 
+#Next steps:
+#Ask user for input of variables, including box size, fill color, and background color, as well as link.
+
