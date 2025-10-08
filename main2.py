@@ -1,4 +1,5 @@
 #Richard Phan
+# 9/25/25
 
 import qrcode
 
@@ -13,4 +14,5 @@ qr.make(fit=True)
 img = qr.make_image(fill_color ="red", back_color ="black") #swap colors with the ones you want
 img.save("coloredCode.png")
 img.show()
+
 
