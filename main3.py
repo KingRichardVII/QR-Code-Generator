@@ -28,3 +28,6 @@ img.save("coloredCode.png")
 img.show()
 
 print("QR code created and saved as 'coloredCode.png'.")
+
+
+#FIXME Next step, add input validation for user input.
