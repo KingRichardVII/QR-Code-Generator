@@ -17,7 +17,8 @@ This python program generates a QR code for a link. The QR code is automatically
 * #TBA: add input validation/error handling for user input
 
 ### Required Packages 
-#### Install through Pycharm terminal:
+#### Install through terminal:
 
-* `pip install qrcode pillow`
+`pip install qrcode pillow`
+
 
