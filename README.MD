@@ -19,6 +19,9 @@ This python program generates a QR code for a link. The QR code is automatically
 ### Required Packages 
 #### Install through terminal:
 
-`pip install qrcode pillow`
+```
+pip install qrcode pillow
+```
+
 
 
